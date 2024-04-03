@@ -45,7 +45,7 @@
 /* } */
 /* ------------------------ */
 body {
-    background-image: url('../images/bg2.jpg');
+    background-image: url('./images/bg2.jpg');
     background-size: cover;
     /* background-position: center; */
     background-repeat: no-repeat; 
@@ -76,7 +76,7 @@ body {
 /* } */
 /* /////////////////////////////// */
 body {
-    background-image: url('../images/bg2.jpg');
+    background-image: url('./images/bg2.jpg');
     background-size: cover;
     /* background-position: center; */
     background-repeat: no-repeat; 
@@ -92,7 +92,7 @@ table{
 
 }
 .content-wrapper {
-    background-image: url('../images/bg2.jpg');
+    background-image: url('./images/bg2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
